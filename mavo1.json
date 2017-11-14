@@ -21,8 +21,8 @@
 	"usage-tab-label-01": "Trends",
 	"usage-tab-label-02": "Compare",
 	"usage-tab-label-03": "By Appliance",
-	"usage-tab-content-01": "https://cdn.rawgit.com/a138326/ucp-03-change/c0f95471cee4cdf5f4f8a28b820849996b60569a/images/Trends%20Seg.png",
-	"usage-tab-content-02": "https://cdn.rawgit.com/a138326/ucp-03-change/928d20adbdfbe4ba870d11708c0e35b5c71cbc29/images/Compre%20Seg.png",
+	"usage-tab-content-01": "https://cdn.rawgit.com/a138326/ucp-03-change/552da5d34e1074934dc533258f1b280d635df78f/images/Trends%20Seg.png",
+	"usage-tab-content-02": "https://cdn.rawgit.com/a138326/ucp-03-change/5261ca44df1c8af9e15b00a602582aa39d32d25c/images/Compre%20Seg.png",
 	"usage-tab-content-03": "https://cdn.rawgit.com/a138326/ucp-03-change/f91fb2dab823643926907ebc5f1beea09a49aa87/images/Appp%20Seg.png",
 	"plan-hd": "Your plans and rates",
 	"plan-sub": " ",
@@ -31,5 +31,5 @@
 	"plan-tab-content-01": "https://cdn.rawgit.com/a138326/ucp-03-change/9d42db84f7cbdf3b1864c73282b1a11874a6e8a8/images/RC%20-%20Plan.png",
 	"plan-tab-content-02": "https://cdn.rawgit.com/a138326/ucp-03-change/d2085868874b93afa1ecf1bf8959a8c1949d0b46/images/rates.png",
 	"help-tab-content-01": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/4ddd575623fae02680c0e1d4312389dd.png",
-	"help-tab-content-02": "https://cdn.rawgit.com/a138326/ucp-03-change/a801ce12a540469a4d044136b443232b74111b1e/images/Foot%20Seg.png"
+	"help-tab-content-02": "https://cdn.rawgit.com/a138326/ucp-03-change/e8fa47879470ddd38c8faf343a5cb2e22c7829ea/images/help.png"
 }
